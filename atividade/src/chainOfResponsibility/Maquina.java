@@ -1,5 +1,6 @@
 package chainOfResponsibility;
 
+import chainOfResponsibility.slots.SlotChain;
 import java.util.HashMap;
 import java.util.Map;
 

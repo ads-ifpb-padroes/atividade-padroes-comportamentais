@@ -1,5 +1,13 @@
 package chainOfResponsibility;
 
+import chainOfResponsibility.slots.Slot01;
+import chainOfResponsibility.slots.Slot10;
+import chainOfResponsibility.slots.Slot1;
+import chainOfResponsibility.slots.SlotChain;
+import chainOfResponsibility.slots.Slot50;
+import chainOfResponsibility.slots.Slot25;
+import chainOfResponsibility.slots.Slot05;
+
 public class main {
 
     public static void main(String[] args) {

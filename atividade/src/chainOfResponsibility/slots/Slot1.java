@@ -1,4 +1,4 @@
-package chainOfResponsibility;
+package chainOfResponsibility.slots;
 
 public class Slot1 extends SlotChain{
     
